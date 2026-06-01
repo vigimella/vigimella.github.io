@@ -1,0 +1,327 @@
+{
+  "profile": {
+    "name": "Giovanni Ciaramella",
+    "title": "Ph.D. Student in Cybersecurity @IMT Lucca & Associate Researcher @IIT-CNR Pisa",
+    "location": "Pisa, Italy",
+    "email": "giovanni.ciaramella@iit.cnr.it",
+    "linkedin": "giovanniciaramella",
+    "github": "vigimella",
+    "scholar": "hwySqc4AAAAJ&hl",
+    "summary": "Ph.D. student in Cybersecurity at IMT School for Advanced Studies Lucca and Associate Researcher at IIT-CNR Pisa. Expertise in front-end development and proficiency in Python, Java, JavaScript, and SQL. Research focuses on Cybersecurity and Malware Analysis for Android and Windows, utilizing Artificial Intelligence, Machine Learning, Deep Learning, and Federated Learning."
+  },
+  "education": [
+    {
+      "role": "National Ph.D. program in Cybersecurity",
+      "institution": "IMT School for Advanced Studies Lucca",
+      "location": "Italy",
+      "period": "Jan 2024 - Present",
+      "details": "Curriculum: Software, system and infrastructure security."
+    },
+    {
+      "role": "M.Sc. in Software Systems Security (LM-66)",
+      "institution": "University of Molise",
+      "location": "Italy",
+      "period": "Sept 2020 - Feb 2023",
+      "details": "Grade: 110/110"
+    },
+    {
+      "role": "B.Sc. in Computer Science (L-31)",
+      "institution": "University of Molise",
+      "location": "Italy",
+      "period": "Sept 2017 - Apr 2021",
+      "details": "Grade: 107/110"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Associate Researcher",
+      "institution": "IIT-CNR",
+      "location": "Pisa, Italy",
+      "period": "Jan 2025 - Present",
+      "details": "Analyzing threats in Android, IoT, and Windows using Federated Learning and Quantum ML."
+    },
+    {
+      "role": "Lecturer",
+      "institution": "University of Pisa",
+      "location": "Italy",
+      "period": "Oct 2025",
+      "details": "Taught 'Mobile and Cloud Security' module for the Level I Master in Cybersecurity. Focused on Android programming and mobile ecosystem security."
+    },
+    {
+      "role": "Research Fellow",
+      "institution": "IIT-CNR",
+      "location": "Pisa, Italy",
+      "period": "Aug 2023 - Jan 2024",
+      "details": "Researched malware detection for mobile systems under the 'CyberSec Pro' program."
+    },
+    {
+      "role": "Subject Matter Expert",
+      "institution": "University of Molise",
+      "location": "Italy",
+      "period": "Nov 2023 - Present",
+      "details": "Designated expert for multiple degree programs including Medical Engineering, Biomedical Engineering, Medicine and Surgery, Sports Science, and Law, New Technologies and Security. Co-supervisor for numerous B.Sc. and M.Sc. theses."
+    }
+  ],
+  "skills": {
+    "Languages": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "SQL",
+      "C",
+      "C++",
+      "C#",
+      "PHP"
+    ],
+    "DevOps": [
+      "Docker",
+      "Git",
+      "GitHub Actions",
+      "GitLab CI",
+      "SonarQube"
+    ],
+    "Web Design": [
+      "React",
+      "Angular",
+      "SASS",
+      "Bootstrap",
+      "WordPress"
+    ],
+    "Languages Spoken": [
+      "Italian (Native)",
+      "English (B2)"
+    ]
+  },
+  "awards": [
+    {
+      "title": "Best Paper Award (2022)",
+      "details": "'Introducing Quantum Computing in Mobile Malware Detection' presented at Workshop FARES, Vienna."
+    }
+  ],
+  "publications": [
+    {
+      "title": "An explainable privacy-preserving method for mobile malware detection through federated machine learning",
+      "authors": "Giovanni Ciaramella, Fabio Martinelli, Antonella Santone, Francesco Mercaldo",
+      "venue": "International Journal of Information Security, 2026 Springer",
+      "url": "https://doi.org/10.1007/s10207-026-01268-4",
+      "type": "journal"
+    },
+    {
+      "title": "A Privacy-Preserving and Explainable Method for Diabetic Retinopathy Classification and Localization",
+      "authors": "Giovanni Ciaramella, Mario Cesarelli, Fabio Martinelli, Patrizia Agnello, Marta Petyx, Antonella Santone, Francesco Mercaldo",
+      "venue": "IEEE Access, 2026 IEEE",
+      "url": "https://doi.org/10.1109/ACCESS.2026.3678201",
+      "type": "journal"
+    },
+    {
+      "title": "A method for real-world privacy-preserving Android malware detection through Federated Machine Learning",
+      "authors": "Giovanni Ciaramella, Fabio Martinelli, Christian Peluso, Antonella Santone, Francesco Mercaldo",
+      "venue": "Journal of Information and Software Technology, 2025 Elsevier",
+      "url": "https://doi.org/10.1016/j.infsof.2025.107892",
+      "type": "journal"
+    },
+    {
+      "title": "A Federated Machine Learning Method for Malicious Smart Contract Detection",
+      "authors": "Giovanni Ciaramella, Fabio Martinelli, Francesco Mercaldo, Paolo Mori, Antonella Santone",
+      "venue": "7th International Conference on Blockchain Computing and Applications (BCCA 2025), 2025 IEEE",
+      "url": "https://doi.org/10.1109/BCCA66705.2025.11229791",
+      "type": "conference"
+    },
+    {
+      "title": "On the Effectiveness of Generative Adversarial Networks for data augmentation in malware detection",
+      "authors": "Giovanni Ciaramella, Fabio Martinelli, Antonella Santone, Francesco Mercaldo",
+      "venue": "Workshop on Security and Artificial Intelligence (SECAI) in conjunction with ESORICS 2025, 2025 Springer",
+      "url": "https://doi.org/10.1007/978-3-032-16092-8_10",
+      "type": "conference"
+    },
+    {
+      "title": "A Privacy-preserving Method for Explainable Multiple Sclerosis detection through Federated Machine Learning",
+      "authors": "Filomena Niro, Miriam Di Renzo, Patrizia Agnello, Marta Petyx, Giovanni Ciaramella, Fabio Martinelli, Mario Cesarelli, Antonella Santone, Francesco Mercaldo",
+      "venue": "1st Workshop on Innovative Medical image Processing with AI-driven preCision Technologies (IMPACT), 2025 Springer",
+      "url": "https://doi.org/10.1007/978-3-032-11381-8_3",
+      "type": "conference"
+    },
+    {
+      "title": "Explainable Malware Detection by means of Federated Machine Learning",
+      "authors": "Giovanni Ciaramella, Fabio Martinelli, Antonella Santone, Francesco Mercaldo",
+      "venue": "2025 IEEE International Conference on Cyber Security and Resilience, 2025 IEEE",
+      "url": "https://doi.org/10.1109/CSR64739.2025.11130004",
+      "type": "conference"
+    },
+    {
+      "title": "Explainable Ransomware Detection through Static Analysis and Machine Learning",
+      "authors": "Giovanni Ciaramella, Fabio Martinelli, Antonella Santone, Francesco Mercaldo",
+      "venue": "2025 IEEE International Conference on Cyber Security and Resilience, 2025 IEEE",
+      "url": "https://doi.org/10.1109/CSR64739.2025.11130044",
+      "type": "conference"
+    },
+    {
+      "title": "FLIP: A tool for Explainable Federated Learning for Image Processing",
+      "authors": "Giovanni Ciaramella, Fabio Martinelli, Antonella Santone, Francesco Mercaldo",
+      "venue": "2025 IEEE 13th International Conference on Healthcare Informatics (ICHI), 2025 IEEE",
+      "url": "https://doi.org/10.1109/ICHI64645.2025.00088",
+      "type": "conference"
+    },
+    {
+      "title": "An approach for Robust and Explainable Lung Disease detection and localization",
+      "authors": "Marcello Di Giammarco, Giovanni Ciaramella, Antonella Santone, Mario Cesarelli, Fabio Martinelli, Francesco Mercaldo",
+      "venue": "13th International KES Conference on Innovation in Medicine and Healthcare, 2025 Springer",
+      "url": "#",
+      "type": "conference"
+    },
+    {
+      "title": "A Method for Packed (and Unpacked) Malware Detection by Means of Convolutional Neural Networks",
+      "authors": "Giovanni Ciaramella, Fabio Martinelli, Antonella Santone, Francesco Mercaldo",
+      "venue": "22nd International Conference on Security and Cryptography, 2025 SciTePress",
+      "url": "https://doi.org/10.5220/0013210400003979",
+      "type": "conference"
+    },
+    {
+      "title": "Towards Quantum Machine Learning in Ransomware Detection",
+      "authors": "Francesco Mercaldo, Giovanni Ciaramella, Fabio Martinelli, Antonella Santone",
+      "venue": "22nd International Conference on Security and Cryptography, 2025 SciTePress",
+      "url": "https://doi.org/10.5220/0013326400003979",
+      "type": "conference"
+    },
+    {
+      "title": "A method for smart grid intrusion detection through explainable deep learning",
+      "authors": "Giovanni Ciaramella, Fabio Martinelli, Antonella Santone, Francesco Mercaldo",
+      "venue": "Journal of Computer Virology and Hacking Techniques, 2025 Springer",
+      "url": "https://doi.org/10.1007/s11416-025-00549-1",
+      "type": "journal"
+    },
+    {
+      "title": "Leveraging Pre-trained LLMs for GDPR Compliance in Online Privacy Policies",
+      "authors": "Giovanni Ciaramella, Luca Petrillo, Margaret Varilek, Francesco Mercaldo, Giovanni Comandé, Fabio Martinelli",
+      "venue": "Joint National Conference on Cybersecurity (ITASEC & SERICS 2025), 2025 CEUR",
+      "url": "https://ceur-ws.org/Vol-3962/paper44.pdf",
+      "type": "conference"
+    },
+    {
+      "title": "A Federated Learning-Based Android Malware Detector Through Differential Privacy",
+      "authors": "Christian Peluso, Giovanni Ciaramella, Francesco Mercaldo, Antonella Santone, Fabio Martinelli",
+      "venue": "International Conference on Computer Aided Systems Theory, 2024 Springer",
+      "url": "https://doi.org/10.1007/978-3-031-83885-9_28",
+      "type": "conference"
+    },
+    {
+      "title": "Dynamic Analysis for Explainable Fine-grained Android Malware Detection",
+      "authors": "Giovanni Ciaramella, Francesco Mercaldo, Antonella Santone",
+      "venue": "20th International Workshop on Security and Trust Management, 2024 Springer",
+      "url": "https://doi.org/10.1007/978-3-031-76371-7_8",
+      "type": "conference"
+    },
+    {
+      "title": "DroidDefender: An Image-based Android Antimalware Proof-of-Concept",
+      "authors": "Giovanni Ciaramella, Fabio Martinelli, Francesco Mercaldo, Antonella Santone",
+      "venue": "14th ACM Conference on Data and Application Security and Privacy, 2024 ACM",
+      "url": "https://doi.org/10.1145/3626232.3658634",
+      "type": "conference"
+    },
+    {
+      "title": "An Approach for Privacy-Preserving Mobile Malware Detection Through Federated Machine Learning",
+      "authors": "Giovanni Ciaramella, Fabio Martinelli, Francesco Mercaldo, Christian Peluso, Antonella Santone",
+      "venue": "26th International Conference on Enterprise Information Systems, 2024 SciTePress",
+      "url": "https://doi.org/10.5220/0012730600003690",
+      "type": "conference"
+    },
+    {
+      "title": "A Proposal for Trustworthy Artificial Intelligence",
+      "authors": "Giovanni Ciaramella, Fabio Martinelli, Francesco Mercaldo, Antonella Santone",
+      "venue": "2023 IEEE International Conference on Big Data (BigData), 2023 IEEE",
+      "url": "https://doi.org/10.1109/BigData59044.2023.10485561",
+      "type": "conference"
+    },
+    {
+      "title": "Explainable Deep Learning for Smart Grid Stability Detection",
+      "authors": "Giovanni Ciaramella, Fabio Martinelli, Francesco Mercaldo, Antonella Santone",
+      "venue": "2023 IEEE International Conference on Big Data (BigData), 2023 IEEE",
+      "url": "https://doi.org/10.1109/BigData59044.2023.10386170",
+      "type": "conference"
+    },
+    {
+      "title": "Explainable Ransomware Detection with Deep Learning Techniques",
+      "authors": "Giovanni Ciaramella, Giacomo Iadarola, Fabio Martinelli, Francesco Mercaldo, Antonella Santone",
+      "venue": "Journal of Computer Virology and Hacking Techniques, 2023 Springer",
+      "url": "https://doi.org/10.1007/s11416-023-00501-1",
+      "type": "journal"
+    },
+    {
+      "title": "Obfuscated Mobile Malware Detection by Means of Dynamic Analysis and Explainable Deep Learning",
+      "authors": "Francesco Mercaldo, Giovanni Ciaramella, Fabio Martinelli, Antonella Santone",
+      "venue": "18th International Conference on Availability Reliability and Security (ARES), 2023 ACM",
+      "url": "https://doi.org/10.1145/3600160.3605037",
+      "type": "conference"
+    },
+    {
+      "title": "Exploring Quantum Machine Learning for Explainable Malware Detection",
+      "authors": "Giovanni Ciaramella, Fabio Martinelli, Francesco Mercaldo, Antonella Santone",
+      "venue": "International Joint Conference on Neural Networks (IJCNN), 2023 IEEE",
+      "url": "https://doi.org/10.1109/IJCNN54540.2023.10191964",
+      "type": "conference"
+    },
+    {
+      "title": "StegWare: A Novel Malware Model Exploiting Payload Steganography and Dynamic Compilation",
+      "authors": "Daniele Albanese, Rosangela Casolare, Giovanni Ciaramella, Giacomo Iadarola, Fabio Martinelli, Francesco Mercaldo, Marco Russodovito, Antonella Santone",
+      "venue": "9th International Conference on Information Systems Security and Privacy, 2023 SciTePress",
+      "url": "https://doi.org/10.5220/0011859000003405",
+      "type": "conference"
+    },
+    {
+      "title": "Continuous and Silent User Authentication Through Mouse Dynamics and Explainable Deep Learning",
+      "authors": "Giovanni Ciaramella, Stefano Fagnano, Giacomo Iadarola, Fabio Martinelli, Francesco Mercaldo, Antonella Santone",
+      "venue": "21st IEEE International Conference on Machine Learning and Applications (ICMLA), 2022 IEEE",
+      "url": "https://doi.org/10.1109/ICMLA55696.2022.00274",
+      "type": "conference"
+    },
+    {
+      "title": "Continuous and Silent User Authentication Through Mouse Dynamics and Explainable Deep Learning: A Proposal",
+      "authors": "Giovanni Ciaramella, Giacomo Iadarola, Fabio Martinelli, Francesco Mercaldo, Antonella Santone",
+      "venue": "2022 IEEE International Conference on Big Data, 2022 IEEE",
+      "url": "https://doi.org/10.1109/BigData55660.2022.10020235",
+      "type": "conference"
+    },
+    {
+      "title": "Towards Explainable Quantum Machine Learning for Mobile Malware Detection and Classification",
+      "authors": "Francesco Mercaldo, Giovanni Ciaramella, Giacomo Iadarola, Marco Storto, Fabio Martinelli, Antonella Santone",
+      "venue": "Applied Sciences, 2022 MDPI",
+      "url": "https://doi.org/10.3390/app122312025",
+      "type": "journal"
+    },
+    {
+      "title": "A Model Checking-based Approach to Malicious Family Detection in iOS Environment",
+      "authors": "Giovanni Ciaramella, Giacomo Iadarola, Fabio Martinelli, Francesco Mercaldo, Antonella Santone",
+      "venue": "Procedia Computer Science, 2022 Elsevier",
+      "url": "https://doi.org/10.1016/j.procs.2022.09.257",
+      "type": "journal"
+    },
+    {
+      "title": "On the Resilience of Shallow Machine Learning Classification in Image-based Malware Detection",
+      "authors": "Rosangela Casolare, Giovanni Ciaramella, Giacomo Iadarola, Fabio Martinelli, Francesco Mercaldo, Antonella Santone, Michele Tommasone",
+      "venue": "Procedia Computer Science, 2022 Elsevier",
+      "url": "https://doi.org/10.1016/j.procs.2022.09.047",
+      "type": "journal"
+    },
+    {
+      "title": "A Real-time Method for CAN Bus Intrusion Detection by Means of Supervised Machine Learning",
+      "authors": "Francesco Mercaldo, Rosangela Casolare, Giovanni Ciaramella, Giacomo Iadarola, Fabio Martinelli, Francesco Ranieri, Antonella Santone",
+      "venue": "SECRYPT, 2022 SciTePress",
+      "url": "https://doi.org/10.5220/0011267500003283",
+      "type": "conference"
+    },
+    {
+      "title": "Introducing Quantum Computing in Mobile Malware Detection",
+      "authors": "Giovanni Ciaramella, Giacomo Iadarola, Francesco Mercaldo, Marco Storto, Antonella Santone, Fabio Martinelli",
+      "venue": "17th International Conference on Availability Reliability and Security (ARES), 2022 ACM",
+      "url": "https://doi.org/10.1145/3538969.3543816",
+      "type": "conference"
+    },
+    {
+      "title": "Steælergon: A framework for injecting colluding malicious payload in android applications",
+      "authors": "Rosangela Casolare, Giovanni Ciaramella, Fabio Martinelli, Francesco Mercaldo, Antonella Santone",
+      "venue": "16th International Conference on Availability Reliability and Security (ARES), 2021 ACM",
+      "url": "https://doi.org/10.1145/3465481.3470077",
+      "type": "conference"
+    }
+  ]
+}

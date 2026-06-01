@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giovanni Ciaramella | Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="app-container">
+        <aside>
+            <div class="profile-card">
+
+                <div class="main-info">
+
+                    <div class="profile-pic" id="dyn-profile-pic">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw1Stq_9O2WWnRQuAyJX9wEg1WOC-ejXSunQ&s"
+                            alt="Profile Picture">
+                    </div>
+
+                    <h1 id="dyn-name">...</h1>
+                    <p id="dyn-title">...</p>
+                </div>
+
+                <ul class="nav-links">
+                    <li><a href="#summary" class="active"><i class="fa-solid var(--pastel-blue-dark) fa-user"></i>
+                            Summary</a></li>
+                    <li><a href="#education"><i class="fa-solid fa-graduation-cap"></i> Education</a></li>
+                    <li><a href="#experience"><i class="fa-solid fa-briefcase"></i> Experience</a></li>
+                    <li><a href="#skills"><i class="fa-solid fa-code"></i> Skills</a></li>
+                    <li><a href="#publications"><i class="fa-solid fa-book-bookmark"></i> Publications</a></li>
+                </ul>
+            </div>
+
+            <div class="social-contacts" id="dyn-socials">
+            </div>
+        </aside>
+
+        <main>
+
+            <section id="summary" class="reveal-section">
+                <h2 class="section-title">Professional Summary</h2>
+                <div class="card-body" id="dyn-summary-text" style="font-size: 15px; color: #4a5568; line-height: 1.8;">
+                    ...
+                </div>
+            </section>
+
+            <section id="education" class="reveal-section">
+                <h2 class="section-title">Education</h2>
+                <div class="timeline" id="timeline-education"></div>
+            </section>
+
+            <section id="experience" class="reveal-section">
+                <h2 class="section-title">Professional Experience</h2>
+                <div class="timeline" id="timeline-experience"></div>
+            </section>
+
+            <section id="skills" class="reveal-section">
+                <h2 class="section-title">Technical Expertise</h2>
+                <div class="skills-container" id="skills-grid"></div>
+            </section>
+
+            <section id="awards" class="reveal-section">
+                <h2 class="section-title">Honors & Awards</h2>
+                <div id="awards-container"></div>
+            </section>
+
+            <section id="publications" class="reveal-section">
+                <h2 class="section-title">Publications & Peer Reviewed Indexes</h2>
+                <input type="text" id="pub-search" class="pub-search-box"
+                    placeholder="🔍 Search publications by keyword, title, co-author, or venue...">
+
+                <div class="metrics-grid">
+                    <div class="metric-card pubs">
+                        <p class="num" id="stat-pub-count">0</p>
+                        <p class="label">Peer Reviewed Publications</p>
+                    </div>
+                    <div class="metric-card pubs">
+                        <p class="num" id="stat-journal-count">0</p>
+                        <p class="label">Journal Articles</p>
+                    </div>
+                    <div class="metric-card pubs">
+                        <p class="num" id="stat-conference-count">0</p>
+                        <p class="label">Conference Papers</p>
+                    </div>
+                </div>
+
+                <div class="pub-list" id="publications-target"></div>
+            </section>
+
+            <footer>
+                <p>&copy;
+                    <script>document.write(/\d{4}/.exec(Date())[0])</script> Giovanni Ciaramella.
+                </p>
+            </footer>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
