@@ -2,7 +2,7 @@ let cvData = {};
 
 document.addEventListener("DOMContentLoaded", () => {
     // Load clean, decoupling dynamic portfolio data matrix matrix
-    fetch('cv-data.json')
+    fetch('../json/cv-data.json')
         .then(res => res.json())
         .then(data => {
             cvData = data;
